@@ -7,7 +7,7 @@
 
 
 ## My name is Ryan Gustavo
-(Java | Spring Boot | React JS | Typescript | Javascript | HTML | CSS | C++ ) 🚀
+(Java, Typescript/Javascript, C++, python | Postgresql, Mongodb, SQL Server SQL | Clean architecture, MVC ) 🚀
 - 👩‍💻 Freelancer
 - 🎓 Autodidact
 - 🌐 Passionate about web development
