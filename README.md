@@ -16,8 +16,8 @@
 
 <div align="left">
   
-  <img width="60%" height="200px" src="https://github-readme-stats.vercel.app/api?username=ryangustav&show_icons=true&theme=dracula" />
-  <img width="60%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryangustav&layout=compact&show_icons=true&theme=dracula" />
+  <img width="60%" height="200px" src="http://136.248.77.165:4000/api?username=ryangustav&show_icons=true&theme=dracula" />
+  <img width="60%" height="195px" src="http://136.248.77.165:4000/api/top-langs/?username=ryangustav&layout=compact&show_icons=true&theme=dracula" />
   
  </div>
 
