@@ -3,7 +3,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernanda-kipper-5958a61a9/)](https://www.linkedin.com/in/ryan-gustavo-609246329)
 [![Personal Badge](https://img.shields.io/badge/-Website-6633cc?style=flat-square&logo=Me&logoColor=white&link=https://www.fernandakipper.com/)](https://ryangustavo.site/)
-[![Gmail Badge](https://img.shields.io/badge/-contato@ryangustavo.site-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato@ryangustavo.site)](mailto:contato@ryangustavo.site)
+[![Gmail Badge](https://img.shields.io/badge/-ryang6329@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ryang6329@gmail.com)](mailto:ryang6329@gmail.com)
 
 
 ## My name is Ryan Gustavo
