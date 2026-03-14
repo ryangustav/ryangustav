@@ -16,8 +16,8 @@
 
 <div align="left">
   
-  <img width="60%" height="200px" src="http://136.248.77.165:4000/api?username=ryangustav&show_icons=true&theme=dracula" />
-  <img width="60%" height="195px" src="http://136.248.77.165:4000/api/top-langs/?username=ryangustav&layout=compact&show_icons=true&theme=dracula" />
+  <img width="60%" height="200px" src="http://167.234.248.198:8080/api?username=ryangustav&show_icons=true&theme=dracula" />
+  <img width="60%" height="195px" src="http://167.234.248.198:8080/api/top-langs/?username=ryangustav&layout=compact&show_icons=true&theme=dracula" />
   
  </div>
 
