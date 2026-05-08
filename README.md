@@ -11,7 +11,7 @@
 - 👩‍💻 Currently working at PASS
 - 🎓 Autodidact
 - 🌐 Passionate about web development
-- 💢 Passionate about hacking
+- 💢 Passionate about hacking & Forensis Analysis
 - 😁 Fun fact: I started programming when I was 13, creating lua scripts.
 
 <div align="left">
