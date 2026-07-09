@@ -7,7 +7,7 @@
 
 
 ## My name is Ryan Gustavo
-( Java, Typescript/Javascript, C++, python | Reactjs, Angular | Postgresql, Mongodb, SQL Server SQL | Clean Code, MVC ) 🚀
+( Java, Typescript/Javascript, Rust, C++, python | Reactjs, Angular | Postgresql, Mongodb, SQL Server SQL | Clean Code, MVC ) 🚀
 - 👩‍💻 Currently working at PASS
 - 🎓 Autodidact
 - 🌐 Passionate about web development
